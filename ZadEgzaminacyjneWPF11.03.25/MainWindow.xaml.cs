@@ -89,4 +89,4 @@ namespace ZadEgzaminacyjneWPF11._03._25
             MessageBox.Show(("Dane Pracownika:") + Imie.Text + (" ") + Nazwisko.Text + (" ") + Stanowisko.Text +(" ") + ("Hasło:"));
         }
     }
-}
+}//kacper Sadecki
