@@ -19,19 +19,26 @@ namespace ZadEgzaminacyjneWPF11._03._25
    
     public partial class MainWindow : Window
     {
-        
-       
+
+
         public MainWindow()
         {
             InitializeComponent();
-            string male = "qwertyuiopasdfghjklzxcvbnm";
-            string wielkie = "QWERTYUIOPASDFGHJKLZXCVBNM";
-            int cyfry = 1234567890;
-            string specjalne = "!@#$%^&*()_+-";
+            string[] male = ["qwertyuiopasdfghjklzxcvbnm"];
+            string[] wielkie = ["QWERTYUIOPASDFGHJKLZXCVBNM"];
+            int[] cyfry = [1234567890];
+            string[] specjalne = ["!@#$%^&*()_+-"];
+            int IleZnaków = IleZnakow.Text.ToString().Length;
 
             for (int i = 0; i < male.Length; i++)
             {
+                if ((bool)MaleWielkieLitery.IsChecked)
+                {
 
+
+                }
+            
+            
             }
            
         }
