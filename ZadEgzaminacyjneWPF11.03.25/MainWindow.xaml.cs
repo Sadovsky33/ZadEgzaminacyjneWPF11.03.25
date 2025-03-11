@@ -14,7 +14,7 @@ namespace ZadEgzaminacyjneWPF11._03._25
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    /// 
+    /// Kacper Sadecki
     public partial class MainWindow : Window
     {
         public MainWindow()

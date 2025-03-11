@@ -31,6 +31,7 @@
         <CheckBox x:Name="MaleWielkieLitery" Content="Małe i Wielkie Litery" HorizontalAlignment="Left" Margin="496,69,0,0" VerticalAlignment="Top"/>
         <Button x:Name="GenerujBttn" Content="generuj hasło" HorizontalAlignment="Left" Margin="565,169,0,0" VerticalAlignment="Top" Width="139" Height="23" Background="SteelBlue"/>
         <Button x:Name="ZatwierdzBttn" Content="Zatwiedz" HorizontalAlignment="Center" Margin="0,328,0,0" VerticalAlignment="Top" Width="156" Height="31" Background="SteelBlue"/>
+        <Label Content="KACPERS" HorizontalAlignment="Left" Margin="19,402,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
